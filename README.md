@@ -34,7 +34,7 @@ Use pen and paper to create the design, take a picture with your phone and send 
 1. **Create a MySQL database for this lab.** You can do so in the command line like this:
 
 	```bash
-	$ mysql -u your_username -p
+	$ mysql -u userpt -p
 	mysql> CREATE DATABASE lab_mysql;
 	Query OK, 1 row affected (0.02 sec)
 	mysql> USE lab_mysql;
